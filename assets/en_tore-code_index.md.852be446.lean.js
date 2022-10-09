@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.0a8dbffe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"page"},"headers":[],"relativePath":"en/tore-code/index.md"}'),a={name:"en/tore-code/index.md"};function n(r,c,s,d,i,p){return o(),t("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.0a8dbffe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"page"},"headers":[],"relativePath":"en/eight-part-essay/index.md"}'),n={name:"en/eight-part-essay/index.md"};function r(s,o,c,i,p,d){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
